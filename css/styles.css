@@ -16,7 +16,9 @@ body {
   border-radius: 10px;
   margin-bottom: 20px;
 }
-
+.margenes.navbar.navbar-expand-lg.navbar-light {
+  background-color: #fff;
+}
 .navbar-brand {
   padding-left: 15px;
 }
