@@ -56,56 +56,6 @@ body {
   margin-top: 15px;
 }
 
-/*--- MAIN CONTENT 1 ---*/
-main {
-  text-align: center;
-  background-image: url("https://static.vecteezy.com/system/resources/previews/016/226/069/original/blue-wave-baground-wallpaper-free-vector.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  border-radius: 10px;
-  padding-bottom: 15px;
-}
-
-.content1 {
-  width: 100%;
-}
-
-.img_content1 {
-  width: 100%;
-}
-
-.img_content1 img {
-  width: 170px;
-  height: 170px;
-  border-radius: 50%;
-  margin-top: 15px;
-}
-
-.text_content1 {
-  margin-top: 15px;
-}
-
-hr {
-  width: 100px;
-  height: 30px;
-  margin: auto;
-}
-
-.text_content1 h1 {
-  font-weight: 100;
-}
-
-.text_content1 h2 {
-  margin-top: 20px;
-}
-
-.text_content p {
-  letter-spacing: 1px;
-  font-weight: 300;
-}
-
 /*FORMULARIO CONTACTO*/
 .form_container {
   padding-bottom: 15px;
@@ -203,6 +153,56 @@ button {
 
 button:hover {
   background-color: #1a2e44;
+}
+
+/*--- MAIN CONTENT 1 ---*/
+main {
+  text-align: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/016/226/069/original/blue-wave-baground-wallpaper-free-vector.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  border-radius: 10px;
+  padding-bottom: 15px;
+}
+
+.content1 {
+  width: 100%;
+}
+
+.img_content1 {
+  width: 100%;
+}
+
+.img_content1 img {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+
+.text_content1 {
+  margin-top: 15px;
+}
+
+hr {
+  width: 100px;
+  height: 30px;
+  margin: auto;
+}
+
+.text_content1 h1 {
+  font-weight: 100;
+}
+
+.text_content1 h2 {
+  margin-top: 20px;
+}
+
+.text_content p {
+  letter-spacing: 1px;
+  font-weight: 300;
 }
 
 /*--- MAIN CONTENT 2 ---*/
